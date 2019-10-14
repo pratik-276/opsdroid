@@ -37,7 +37,7 @@
 
 ---
 
-An open source chatbot framework written in Python. It is designed to be extendable, scalable and simple.
+This is an open source chatbot framework written in Python. It is designed to be extendable, scalable and simple.
 
 
 This application is designed to take messages from chat services and execute Python functions (skills) based on their contents. Those functions can be anything you like, from simple conversational responses to running complex tasks. The true power of this project is to act as a glue library to bring the multitude of natural language APIs, chat services and third-party APIs together.
